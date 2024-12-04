@@ -1,7 +1,7 @@
 ![Adaptive Notepad](https://media.discordapp.net/attachments/1313895396766126140/1313895451208056994/adaptivenotepad.png?ex=6751cbfe&is=67507a7e&hm=a8b95e0aade40d47c2fdf069ed9f0f46f6f24e66a78b2d5a2efc93f2d842ee47&=&format=webp&quality=lossless)
 
 > [!Warning]
-> Aplikācija un tās mājaslapa pašlaik ir nedarbojas.
+> Aplikācija un tās mājaslapa pašlaik nedarbojas.
 
 ## Iedvesma
 Kāpēc tieši **Adaptive Notepad**?
