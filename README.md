@@ -40,7 +40,7 @@ Kāpēc tieši **Adaptive Notepad**?
 
 ### Pamācība
 
-1. Ielādējiet mūsu aplikāciju https://adaptivenotepad.onrender.com/.
+1. Ielādējat mūsu aplikāciju https://adaptivenotepad.onrender.com/.
 2. Tad kad esat palaiduši aplikāciju, nospiediet **F9**, lai to atvērtu, tālāk izveidojiet kontu.
 3. Tagad jums ir iepsēja izveidot pašam savu teksta failu un to saglabāt, gan uz sava datora, gan mūsu datubāzē.
 4. Ja vēlaties apskatīt savus saglabātos teksta failus, jums ir iespēja tos apskatīt mūsu mājaslapā https://adaptivenotepad.onrender.com/.
