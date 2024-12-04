@@ -47,7 +47,7 @@ Kāpēc tieši **Adaptive Notepad**?
 
 ## Veidotāji
 
-[![Matīss Grūbe](https://cdn.britannica.com/97/194197-050-5BD88874/Vin-Diesel-The-Fast-and-the-Furious.jpg)](https://github.com/CodeMytz) |
+[![Matīss Grūbe](https://cdn.mos.cms.futurecdn.net/PosvCa2386NXwo4cM4VWa3.jpg)](https://github.com/CodeMytz) |
 :---:|
 [Matīss Grūbe](https://github.com/CodeMytz)|
 [![Daniels Leškevičs](links)](https://github.com/danielsleskevics) |
