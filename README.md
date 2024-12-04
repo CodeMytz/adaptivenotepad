@@ -50,6 +50,8 @@ Kāpēc tieši **Adaptive Notepad**?
 
 [![Matīss Grūbe](https://avatars.githubusercontent.com/u/175507656?s=400&u=f7097dc4382fcf22f57bf2586f0402098c137738&v=4)](https://github.com/CodeMytz) |
 :---:|
-[Matīss Grūbe](https://github.com/CodeMytz) - Veidotājs |
+[Matīss Grūbe](https://github.com/CodeMytz)|
 
-![Daniels Leškevičs](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/694px-Unknown_person.jpg)|
+!(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/694px-Unknown_person.jpg)|
+:---:|
+[Daniels Leškevičs]|
