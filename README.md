@@ -51,5 +51,4 @@ Kāpēc tieši **Adaptive Notepad**?
 :---:|
 [Matīss Grūbe](https://github.com/CodeMytz)|
 [![Daniels Leškevičs](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/Vin-Diesel-In-Furious-7-next-to-paul-walker.jpg)](https://github.com/danielsleskevics)|
-:---:|
 [Daniels Leškevičs](https://github.com/danielsleskevics)
