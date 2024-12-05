@@ -45,6 +45,11 @@ Kāpēc tieši **Adaptive Notepad**?
 3. Tagad jums ir iepsēja izveidot pašam savu teksta failu un to saglabāt, gan uz sava datora, gan mūsu datubāzē.
 4. Ja vēlaties apskatīt savus saglabātos teksta failus, jums ir iespēja tos apskatīt mūsu mājaslapā https://adaptivenotepad.onrender.com/.
 
+
+## PIEEJA LIETOTĀJAM UN VIRSLIETOTĀJAM
+
+![abc](https://media.discordapp.net/attachments/1313895396766126140/1314304636819345429/image.png?ex=67534914&is=6751f794&hm=b3192689df5b06901167722542f06bfa76b12996319429e0b473b21df4a515bb&=&format=webp&quality=lossless&width=720&height=424)
+
 ## Veidotāji
 
 [![Matīss Grūbe](https://static1.srcdn.com/wordpress/wp-content/uploads/2020/03/Vin-Diesel-In-Furious-7-next-to-paul-walker.jpg)](https://github.com/CodeMytz) |
